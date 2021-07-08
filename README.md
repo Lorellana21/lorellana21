@@ -18,5 +18,5 @@ Beyond:
 - 🤔 I’m looking for help with that job search
 - 💬 Ask me about JavaScript || React || HTML5 || CSS3 || SASS || Document writing || Agile & SCRUM || Node Js
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lorenaorellana/)
-- ⚡ Sport I love: While training Yin-Yoga, I´m able to connect my inner self with the essential getting a perfect balance between mind and body
+- ⚡ Sport I love: While training Yin-Yoga, I´m able to connect my inner self with the essential
 
