@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi Wonderful Wide World 👋
 
-<!--
-**Lorellana21/lorellana21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m **Lorena Orellana** => [**Front-end Developer**} and this is my GitHub little space to share `code`(_and more_)
+with anyone whishing to come and have a look!
+So, Feel yourself at home 🏘
 
-Here are some ideas to get you started:
+### A bit more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif)
+
+
+
+
+Beyond:
+
+- 🔭 I’m currently working on my Portfolio to show the projects I´ve developed in Adalab´s Bootcamp
+- 🌱 I’m currently reinforcing what I´ve learnt at the Bootcamp and buildind my personal project 
+- 🤔 I’m looking for help with that job search
+- 💬 Ask me about JavaScript || React || HTML5 || CSS3 || SASS || Document writing || Agile & SCRUM || Node Js
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/lorenaorellana/)
+- ⚡ Sport I love: While training Yin-Yoga, I´m able to connect my inner self with the essential getting a perfect balance between mind and body
+
