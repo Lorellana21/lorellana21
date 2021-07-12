@@ -6,7 +6,6 @@ So, Feel yourself at home 🏘
 
 ### A bit more about me
 
-![](https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif)
 
 
 
