@@ -1,9 +1,11 @@
-# Hi Wonderful Wide World 👋 
+# Hi Wonderful Wide World 👋
 
 ![Foto de Lorena (6)](https://user-images.githubusercontent.com/81922944/125444152-1de5af82-f5e7-4516-b970-82efb00ac6a7.jpg)  
 I´m **Lorena Orellana** => [**Front-end Developer**} and this is my GitHub little space to share `code` (_and more_)
 with anyone whishing to come and have a look!                                                                                                                                      
 So, Feel yourself at home 🏘
+
+---
 
 ### A bit more about me 
 
@@ -19,12 +21,17 @@ For that reason:
 - 📫 I would like to collaborate in **Open Source Projects**
 - ⚡ I practise **Yin-Yoga** because I´m able to connect my inner self with the essential in life
 
+---
 
 ### Let´s get in touch
 
 📩 lorellana.ordonez@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/lorenaorellana/)
+---
+
+
+
   
 
 
