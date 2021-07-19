@@ -25,9 +25,11 @@ For that reason:
 
 ### Let´s get in touch
 
-📩 lorellana.ordonez@gmail.com
+#### Gmail: lorellana.ordonez@gmail.com
 
-[Linkedin](https://www.linkedin.com/in/lorenaorellana/)
+#### GitHub: [https://github.com/Lorellana21](https://github.com/Lorellana21)
+
+#### Linkedin: [https://www.linkedin.com/in/lorenaorellana/](https://www.linkedin.com/in/lorenaorellana/)
 ---
 
 
