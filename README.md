@@ -1,7 +1,7 @@
 # Hi Wonderful Wide World 👋
 
 ![Foto de Lorena (6)](https://user-images.githubusercontent.com/81922944/125444152-1de5af82-f5e7-4516-b970-82efb00ac6a7.jpg)  
-I´m **Lorena Orellana** => [**Front-end Developer**} and this is my GitHub little space to share `code` (_and more_)
+I´m **Lorena Orellana** => {**Front-end Developer**} and this is my GitHub little space to share `code` (_and more_)                                                              
 with anyone whishing to come and have a look!                                                                                                                                      
 So, Feel yourself at home 🏘
 
