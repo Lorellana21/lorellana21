@@ -21,7 +21,8 @@ For that reason:
 - ⚡ I practise **Yin-Yoga** because I´m able to connect my inner self with the essential in life
 - 💬 Ask me about:                                                                                                                                                                
 
-![tech skills](https://user-images.githubusercontent.com/81922944/126308295-1a0078d4-2831-4630-addc-b520575061b7.png)
+![tech skills](https://user-images.githubusercontent.com/81922944/126484031-42793e46-9beb-4e40-a720-729912394650.png)
+
 
 
 ---
