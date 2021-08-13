@@ -9,8 +9,9 @@ So, Feel yourself at home 🏘
 
 ### A bit more about me 
 
-Coming from the _translation and communication world_, then absorved into the _cultural and tourism universe_...                                                                     
-Now I´m really "pursuing my dream": to become a **Frontend Developer** and get my first job in the _IT cosmos_.
+Coming from the _translation and communication world_, then absorved into the _cultural and tourism universe_... 
+
+Now, I´m really "pursuing my dream": to become a **Frontend Developer** and get my first job in the _IT cosmos_.
 
 For that reason:                    
                                    
