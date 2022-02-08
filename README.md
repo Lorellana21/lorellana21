@@ -2,7 +2,7 @@
 ![Foto de Lorena (6)](https://user-images.githubusercontent.com/81922944/125444152-1de5af82-f5e7-4516-b970-82efb00ac6a7.jpg)  
 ---
 I´m **Lorena Orellana** => {**Front-end Developer**} and this is my GitHub little space to share `code` (_and more_)                                                              
-with anyone whishing to come and have a look!                                                                                                                                      
+with anyone wishing to come and have a look!                                                                                                                                      
 So, Feel yourself at home 🏘
 
 ---
@@ -17,6 +17,9 @@ For that reason:
                                    
 - 🔭 I’m currently working on my **Portfolio** to show the projects I´ve developed in **Adalab´s Bootcamp**
 - 🌱 I’m reinforcing what I´ve learnt at the Bootcamp and buildind my **personal project** 
+- 👀 I am not only **looking for a job**, but for my life purpose. 
+      My dream is to find a company that shares my values and be part of a **winning team** ✌
+      
 - 🤔 I’m looking for help with that **job search**
 - 📫 I would like to collaborate in **Open Source Projects**
 - ⚡ I practise **Yin-Yoga** because I´m able to connect my inner self with the essential in life
