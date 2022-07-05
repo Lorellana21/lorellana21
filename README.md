@@ -1,7 +1,7 @@
 # Hi Wonderful Wide World 👋 
 ![Foto de Lorena (6)](https://user-images.githubusercontent.com/81922944/125444152-1de5af82-f5e7-4516-b970-82efb00ac6a7.jpg)  
 ---
-I´m **Lorena Orellana** => {**Front-end Developer**} and this is my GitHub little space to share `code` (_and more_)                                                              
+I´m **Lorena Orellana** => {**Full Stack Developer**} and this is my GitHub little space to share `code` (_and more_)                                                              
 with anyone wishing to come and have a look!                                                                                                                                      
 So, Feel yourself at home 🏘
 
@@ -11,12 +11,10 @@ So, Feel yourself at home 🏘
 
 Coming from the _translation and communication world_, then absorved into the _cultural and tourism universe_... 
 
-Now, I´m really "pursuing my dream": to become a **Frontend Developer** and get my first job in the _IT cosmos_.
+Now, I´m really "pursuing my dream": becoming a **Full Stack Developer** and get my first job in the _IT cosmos_.
 
 For that reason:                    
                                    
-- 🔭 I’m currently working on my **Portfolio** to show the projects I´ve developed in **Adalab´s Bootcamp**
-- 🌱 I’m reinforcing what I´ve learnt at the Bootcamp and buildind my **personal project** 
 - 👀 I am not only **looking for a job**, but for my life purpose. 
       My dream is to find a company that shares my values and be part of a **winning team** ✌
       
