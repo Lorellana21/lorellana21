@@ -1,4 +1,5 @@
-# Hi there, Wonderful Wide World, I'm Lorena Orellana => {**Full Stack Developer**} 👋
+# Hi there, I'm Lorena Orellana ( ) => { Full Stack Developer } 👋
+
 ... and this is my GitHub little space to share `code` (_and more_) with anyone wishing to come and have a look!                                                            
 So, Feel yourself at home 🏘 
 
