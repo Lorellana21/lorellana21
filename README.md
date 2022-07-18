@@ -52,10 +52,6 @@ Now, I´m really "pursuing my dream": becoming a **Full Stack Developer** and ge
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;"/>
 <img align="left" alt="Docker" width="26px" src="./img/docker.svg" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.svg" style="padding-right:10px;" />
-<br />
-<br />
-
-
 <img align="left" alt="Trello"  width="36px" src="./img/trello.svg" style="padding-right:10px;" />
 <img align="left" alt="Storybook" width="36px" src="./img/storybook.svg" style="padding-right:10px;" />
 <img align="left" alt="Npm" width="36px" src="./img/npm.svg" style="padding-right:10px;" />
@@ -65,11 +61,6 @@ Now, I´m really "pursuing my dream": becoming a **Full Stack Developer** and ge
 <img align="left" alt="Jest" width="26px" src="./img/jest.svg" style="padding-right:10px;" />
 <img align="left" alt="Web-component" width="26px" src="./img/webcomponents-icon.svg" style="padding-right:10px;" />
 <img align="left" alt="Devops" width="46px" src="./img/devops-seeklogo.com.svg" style="padding-right:10px;" />
-
-
 <br />
 <br />
 
-
-
----
