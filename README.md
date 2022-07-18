@@ -14,7 +14,7 @@ Now, I´m really "pursuing my dream": becoming a **Full Stack Developer** and ge
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about QA and DevOps
 - ⚡ Healthy hobbit: I love to practise **Yin-Yoga** because I´m able to connect my inner self with the essential in life
-- 😻 
+<!-- - 😻  -->
 
 
 ### Connect with me:
@@ -47,12 +47,28 @@ Now, I´m really "pursuing my dream": becoming a **Full Stack Developer** and ge
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg"  />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;"/>
+<br />
+<br />
+<img align="left" alt="Docker" width="26px" src="./img/docker.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.svg" style="padding-right:10px;" />
+<img align="left" alt="Trello" width="26px" src="./img/trello.svg" style="padding-right:10px;" />
+<img align="left" alt="Storybook" width="26px" src="./img/storybook.svg" style="padding-right:10px;" />
+<img align="left" alt="Npm" width="26px" src="./img/npm.svg" style="padding-right:10px;" />
+<img align="left" alt="Node" width="26px" src="./img/node.svg" style="padding-right:10px;" />
+<img align="left" alt="Mui" width="26px" src="./img/mui.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="./img/jira.svg" style="padding-right:10px;" />
+<img align="left" alt="Jest" width="26px" src="./img/jest.svg" style="padding-right:10px;" />
+<img align="left" alt="Web-component" width="26px" src="./img/webcomponents-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="Devops" width="26px" src="./img/devops-seeklogo.com.svg" style="padding-right:10px;" />
+
 
 <br />
 <br />
+
+
 
 ---
